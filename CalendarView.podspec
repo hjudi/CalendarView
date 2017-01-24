@@ -34,5 +34,5 @@ Pod::Spec.new do |s|
   }
 
   s.frameworks = 'UIKit'
-  s.dependency 'SwiftMoment', '~> 0.6'
+  s.dependency 'SwiftMoment'
 end
